@@ -9,9 +9,9 @@ Any other reports will be deleted.
 
 3. Bugs should be reported with this pattern:
 
-  When it occured:
-  Description:
-  How it works:
-  Link to site(subsite):
+  When it occured: <br>
+  Description:<br>
+  How it works:<br>
+  Link to site(subsite):<br>
   
 4.Report written incorrectly can be closed without investigation.
