@@ -1,6 +1,6 @@
 ---
-name: Issue template
-about: Issue template.
+name: "# Website BugTracker"
+about: 'Bugs related to Feenix website. '
 labels: 
 
 ---
